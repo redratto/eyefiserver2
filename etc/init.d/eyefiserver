@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 NAME=eyefiserver
 QPKG_CONF=/etc/config/qpkg.conf
 DAEMON=/usr/local/bin/$NAME.py
